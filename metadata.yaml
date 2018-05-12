@@ -1,4 +1,8 @@
 _repo: Poems-Chiefly-from-Manuscript_8672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Clare, John
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2843
     wikipedia: http://en.wikipedia.org/wiki/John_Clare
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8672#Poems-Chiefly-from-Manuscript
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
